@@ -3,9 +3,11 @@ A simple homeassistant AppDaemon app to send audio to a doorbird device.
 
 ## Configuration
 Place the following in your apps.yaml:
+```yaml
 doorbord_audio:
   module: doorbird_audio
   class: DoorbirdAudio
+```
 
 ## Example Usage
 
