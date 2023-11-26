@@ -1,7 +1,7 @@
 # doorbell-audio
 A simple homeassistant AppDaemon app to send audio to a doorbird device.
 
-##Example Usage
+## Example Usage
 
 Create a home assistant script to raise the "doorbird_audio" event with the device's ip, username, password and a url to the audio of your choice
 
