@@ -11,7 +11,7 @@ doorbord_audio:
   module: doorbird_audio
   class: DoorbirdAudio
 ```
-Add [doorbird_audio.py](ha-appdaemon-doorbird-audio/doorbird_audio.py) to your AddDaemon apps directory.
+Add [doorbird_audio.py](https://github.com/coobnoob/ha-appdaemon-doorbird-audio/blob/main/doorbird_audio.py) to your AddDaemon apps directory.
 
 ## Example Usage
 
