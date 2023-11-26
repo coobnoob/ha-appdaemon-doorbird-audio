@@ -1,6 +1,12 @@
 # Doorbird Audio
 A simple homeassistant AppDaemon app to send audio to a doorbird device.
 
+## Configuration
+Place the following in your apps.yaml:
+doorbord_audio:
+  module: doorbird_audio
+  class: DoorbirdAudio
+
 ## Example Usage
 
 Create a home assistant script to raise the "doorbird_audio" event with the device's ip, username, password and a url to the audio of your choice
