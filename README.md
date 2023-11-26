@@ -1,4 +1,4 @@
-# doorbell-audio
+# Doorbird Audio
 A simple homeassistant AppDaemon app to send audio to a doorbird device.
 
 ## Example Usage
