@@ -7,7 +7,7 @@ In your AppDaemon configuration, include ffmpeg in the System packages and pytho
 
 Place the following in your apps.yaml:
 ```yaml
-doorbord_audio:
+doorbird_audio:
   module: doorbird_audio
   class: DoorbirdAudio
 ```
