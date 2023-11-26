@@ -3,7 +3,7 @@ A simple homeassistant AppDaemon app to send audio to a doorbird device.
 
 ## Configuration
 
-In your AppDaemon configuration, include ffmpeg in the System packages and python-ffmpeg in the Python Packages.
+In your AppDaemon configuration, include ffmpeg in the System packages and python-ffmpeg in the Python packages.
 
 Place the following in your apps.yaml:
 ```yaml
