@@ -19,7 +19,6 @@ Create a home assistant script to raise the "doorbird_audio" event with the devi
 
 ![image](https://github.com/coobnoob/doorbell-audio/assets/29867612/ed384426-cf60-433b-a9fd-bef0ae2ba7ee)
 
-
-
+You can raise this event from whereever you like.
 
 
