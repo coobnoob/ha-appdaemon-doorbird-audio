@@ -107,7 +107,7 @@ class Doorbird:
             raise DoorbirdException(exception)
 
 class DoorbirdAudio(hass.Hass):
-  """Appdaemon class named in the appdaemon.yml file"""
+  """Appdaemon class named in the apps.yml file"""
   def initialize(self):
      # Register doorbird_audio method to listen for doorbird_audio events
      self.listen_event(self.doorbird_audio, "doorbird_audio" )
